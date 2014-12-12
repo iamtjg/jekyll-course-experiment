@@ -1,5 +1,5 @@
 # basic configuration
-baseurl:
+baseurl: /jekyll-course-experiment
 markdown: redcarpet
 permalink: /:categories/:title/
 
