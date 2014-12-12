@@ -1,5 +1,0 @@
----
-title: Concepts
-layout: course_page
----
-

@@ -1,12 +1,16 @@
-title: Purl
-modules: [start, community, learning, content, feedback, tools]
+title: Course in a Box
+description: Build Your Very Own Open Course
+modules: [start, community, learning, content, feedback, references]
 signups:
+ - name: Dave Cormier
+   image: https://pbs.twimg.com/profile_images/465974023558418434/NYQWX2pm_400x400.jpeg
+   twitter: davecormier
  - name: Dirk Uys
    image: http://thebacklog.net/img/profile.jpeg
    twitter: riskycud
    github_username: dirkcuys
  - name: Vanessa Gennarelli
-   image: https://pbs.twimg.com/profile_images/491241742104920064/R8j9lRez.jpeg
+   image: https://pbs.twimg.com/profile_images/524237611104088064/7t-h08zy_400x400.jpeg
    twitter: mozzadrella
  - name: Erika Pogorelc
    image: https://pbs.twimg.com/profile_images/466206335445393410/LOhyTzw4_400x400.jpeg
@@ -21,7 +25,7 @@ signups:
    image: https://pbs.twimg.com/profile_images/1361718677/shoes_400x400.png
    twitter: shoebox
  - name: J. Albert Bowden II
-   image: https://pbs.twimg.com/profile_images/477151660762865664/1o6wC0-O_bigger.png
+   image: https://pbs.twimg.com/profile_images/514798020592807937/q_jllsGm_400x400.png
    twitter: jalbertbowdenii
  - name: Tim Gaudette
    image: https://pbs.twimg.com/profile_images/450785510252765184/0Z5NyUcr_normal.jpeg
@@ -54,7 +58,7 @@ signups:
    twitter: angela_brown
    github_username: dreamingwombat
  - name: Nicole McGee
-   image: https://pbs.twimg.com/profile_images/378800000703658823/a956cfc8630c0baa84dc2acd6d20639e.jpeg
+   image: https://pbs.twimg.com/profile_images/530473525945978880/LYMJ07-U_400x400.jpeg
    twitter: nicolejam
  - name: Robert Morris
    image: http://s4.postimg.org/s0w975fp9/coalminer2.png
@@ -76,3 +80,31 @@ signups:
    image: https://pbs.twimg.com/profile_images/1655182544/logo_twitter2_400x400.JPG
    twitter: elsatch
    github_username: elsatch
+ - name: Elliot Harmon
+   image: https://pbs.twimg.com/profile_images/356114067/elliotwater.jpg
+   twitter: elliotharmon
+   github_username: elliotharmon
+ - name: Matt McLean
+   image: http://www.yciw.net/knights/wp-content/uploads/sites/69/2014/11/IMG_1448.jpg
+   twitter: yciw
+   github_username: matt5834
+ - name: John Cummings 
+   image: http://girltomom.com/wp-content/uploads/2012/09/raccoon-holding-cat.jpg
+   twitter: mrjohnc
+   github_username: mrjohnc
+ - name: Terry Elliott
+   image: https://farm8.staticflickr.com/7301/13982521190_ce0d7c5734_s.jpg
+   twitter: telliowkuwp
+   githuk_username: tellio
+ - name: mura nava
+   image: https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_400x400.gif
+   twitter: muranava
+   github_username: muranava
+ - name: Mindy McAdams
+   image: http://mindymcadams.com/images/self/athens.jpg
+   twitter: macloo
+   github_username: macloo
+ - name: Chris Jobling
+   image: http://www.gravatar.com/avatar/79b02b7ce879385b62a5e8e6745b16d1
+   twitter: cpjobling
+   github: cpjobling
